@@ -11,7 +11,7 @@ cd express-movie
 npm install
 bower install 
 ```
-#### 3、打包并执行
+#### 3、执行
 ```javascript
 node app
 ```
